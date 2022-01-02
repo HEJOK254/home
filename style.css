@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+    font-size: 500%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aqua;
+}
+
+body{
+    background: linear-gradient(rgb(0, 17, 255), rgb(129, 61, 255));
+    background-repeat: repeat-x;
+}
+
+.icon{
+    display: inline-block;
+    text-align: center;
+}
