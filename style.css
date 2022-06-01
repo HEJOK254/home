@@ -18,9 +18,13 @@
     text-align: center;
 }
 
-#buttons{
-    background-color: bisque;
-    text-align: center;
+#gameBtn{
+    background-color: rgb(120, 63, 233);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(72, 167, 255);
+    text-shadow: 3px 3px rgb(3, 99, 189);
 }
 
 body{
@@ -43,3 +47,7 @@ body{
     font-family: Pixel;
     src: url(./PressStart2P-Regular.ttf);
 }
+
+button {
+    font-family: inherit
+  }
