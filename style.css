@@ -29,8 +29,10 @@
     font-weight: bold;
     font-size: 30px;
     color: #2e9cca;
-    text-shadow: 3px 3px rgb(3, 99, 189);
+    text-shadow: 3px 3px #1c7aa1;
     border-radius: 8px;
+    border-color: #113a55;
+    width: 25px;
 }
 
 body{
