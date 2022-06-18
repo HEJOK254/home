@@ -24,12 +24,13 @@
 }
 
 #gameBtn{
-    background-color: rgb(120, 63, 233);
+    background-color: #29648a;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     font-size: 30px;
-    color: rgb(72, 167, 255);
+    color: #2e9cca;
     text-shadow: 3px 3px rgb(3, 99, 189);
+    border-radius: 8px;
 }
 
 body{
