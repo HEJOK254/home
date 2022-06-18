@@ -28,11 +28,12 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     font-size: 30px;
+    text-align: center;
     color: #2e9cca;
     text-shadow: 3px 3px #1c7aa1;
     border-radius: 8px;
     border-color: #113a55;
-    width: 25px;
+    width: 150%;
 }
 
 body{
